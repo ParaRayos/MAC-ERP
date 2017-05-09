@@ -89,6 +89,7 @@ Partial Class MenuEmpresa
         Me.Controls.Add(Me.txtNombreEmpresa)
         Me.Controls.Add(Me.pbLogo)
         Me.Name = "MenuEmpresa"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "MenuEmpresa"
         CType(Me.pbLogo, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)

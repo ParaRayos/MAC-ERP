@@ -242,6 +242,7 @@ Partial Class ModificarProducto
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "ModificarProducto"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "ModificarProducto"
         Me.ResumeLayout(False)
         Me.PerformLayout()
