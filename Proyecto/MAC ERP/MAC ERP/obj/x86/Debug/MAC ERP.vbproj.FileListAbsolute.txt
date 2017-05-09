@@ -1,0 +1,61 @@
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\bin\Debug\MAC ERP.exe
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\bin\Debug\MAC ERP.pdb
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\bin\Debug\MAC ERP.xml
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC_ERP.CambiarContraseña.resources
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC_ERP.Form1.resources
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC_ERP.Resources.resources
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC ERP.vbproj.GenerateResource.Cache
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC ERP.exe
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC ERP.xml
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC ERP.pdb
+D:\Users\2_dam7_08\AppData\Local\Temporary Projects\MAC ERP\obj\x86\Debug\MAC_ERP.NuevaEmpresa.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.exe
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.xml
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.pdb
+I:\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.exe
+I:\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.pdb
+I:\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.xml
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.AñadirProducto.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.CambiarContraseña.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.InicioSesion.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.ModificarProducto.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.Resources.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.NuevaEmpresa.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.Productos.resources
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.vbproj.GenerateResource.Cache
+I:\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.MenuEmpresa.resources
+I:\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.exe.config
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.exe.config
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.exe
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.xml
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.pdb
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.exe
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.pdb
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.xml
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.AñadirProducto.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.CambiarContraseña.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.frmLogin.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.InicioSesion.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.MenuEmpresa.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.ModificarProducto.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.Resources.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.NuevaEmpresa.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.Productos.resources
+C:\Users\Miguel\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.exe.config
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.exe
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.xml
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.pdb
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.exe
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.pdb
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\bin\Debug\MAC ERP.xml
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.AñadirProducto.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.CambiarContraseña.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.frmLogin.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.InicioSesion.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.MenuEmpresa.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.ModificarProducto.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.Resources.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.NuevaEmpresa.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC_ERP.Productos.resources
+C:\Users\Public\Documents\MAC ERP\MAC-ERP\Proyecto\MAC ERP\MAC ERP\obj\x86\Debug\MAC ERP.vbproj.GenerateResource.Cache
